@@ -5,7 +5,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the Online Retail d
 The dataset contains transactional data of a UK-based online retailer between 2010–2011.
 
 ## 📂 Project Structure
-- `Online_Retail_EDA.ipynb` → Jupyter Notebook with complete analysis
+- `Customer Segmentation.ipynb` → Jupyter Notebook with complete analysis
 - `Online Retail.xlsx` → Dataset used
 - `README.md` → Project documentation
 
